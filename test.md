@@ -1,7 +1,6 @@
-# Hoofdstuk 1
+In 1995 ontwikkelde Ward Cunningham het eerste computerprogramma waarmee het mogelijk was om informatie die bereikbaar was via het World Wide Web (internet) of een intranet, inhoudelijk door meerdere gebruikers te laten bewerken. Het was gebaseerd op een zogenaamd content management- of databasesysteem, dat documenten ordent en vindbaar maakt en het werd gebruikt voor opbouw van de Portland Pattern Repository. Hij noemde de technologie 'wiki wiki' omdat dat snel betekent in het Hawaïaans en omdat het een alliteratie vormt met het WWW (World Wide Web). Dit programma stond bekend als Ward's Wiki.
 
-## Dit gaan we leren
+Cunningham haalde zijn inspiratie voor de wiki uit het HyperCard-programma van Apple, waarmee gebruikers virtuele card stacks konden maken van informatie. Dit concept was op zijn beurt geïnspireerd op een idee van Vannevar Bush, dat hij in 1945 beschreef in zijn artikel 'As we may think' dat verscheen in het blad Atlantic Monthly. Volgens Bush zou er een machine moeten zijn die koppelingen legde tussen artikelen en boeken in een microfilm, wat in uitgewerkte vorm overeenkomt met de hyperlinks op het World Wide Web en in Wikisoftware.[4] Wiki-ontwikkelaar Cunningham bouwde de HyperCard-stacks zelf op in de late jaren tachtig.[bron?] Hij was de eerste die het wiki-programma Ward's Wiki aan een server koppelde. In navolging daarvan zijn er vele andere wiki's geprogrammeerd om allerlei pagina's te beheren.
 
-* 1
-* 2
-* 3
+Cunningham installeerde op 25 maart 1995 het WikiWikiWeb op zijn bedrijfswebsite Cunningham & Cunningham.[5] Hij noemde het WikiWikiWeb[6] omdat hij dacht aan een baliemedewerker van Honolulu International Airport die hem verteld had over de Wiki Wiki Shuttle, een pendelbus die bezoekers snel tussen de terminals van de luchthaven transporteert. Cunninghams idee was de pagina's eenvoudig bewerkbaar te maken door de gebruikers zelf, zodat er snel resultaten kwamen, hij dacht er eerst over om het "QuickWeb" te noemen, maar doopte het "WikiWikiWeb".
+
