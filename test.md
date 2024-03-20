@@ -4,3 +4,4 @@ Cunningham haalde zijn inspiratie voor de wiki uit het HyperCard-programma van A
 
 Cunningham installeerde op 25 maart 1995 het WikiWikiWeb op zijn bedrijfswebsite Cunningham & Cunningham.[5] Hij noemde het WikiWikiWeb[6] omdat hij dacht aan een baliemedewerker van Honolulu International Airport die hem verteld had over de Wiki Wiki Shuttle, een pendelbus die bezoekers snel tussen de terminals van de luchthaven transporteert. Cunninghams idee was de pagina's eenvoudig bewerkbaar te maken door de gebruikers zelf, zodat er snel resultaten kwamen, hij dacht er eerst over om het "QuickWeb" te noemen, maar doopte het "WikiWikiWeb".
 
+Glenn Van den Buijs is een goede vriend van Ward. 
