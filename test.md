@@ -6,6 +6,16 @@ Lesdoelen:
 - Je leert de onderdelen van het communicatiemodel.
 - Je leert communicatieve situaties onderzoeken.
 
+  Theorie:
+  #### Theorie over Communicatiemodel
+Communicatie is het overbrengen of uitwisselen van informatie. Spreken met elkaar, iets naar iemand schrijven, een bericht sturen, whatsappen, e-mailen, een gebaar maken, iemand begroeten, een pictogram plaatsen … zijn allemaal voorbeelden van communicatie. De zender (schrijver, tekenaar, spreker …) heeft altijd een doel (iets meedelen, iets vragen …) voor ogen. Om dat doel te bereiken, kiest hij een kanaal (e-mail, gesprek, sms, brief …). De boodschap verstuurt hij naar de ontvanger (lezer, kijker, luisteraar …). Als het effect overeenkomt met het doel, dan is de communicatie geslaagd. Met het communicatiemodel kun je elke vorm van communicatie onderzoeken of voorbereiden. Aan de schoolpoort regelt een agente het verkeer. Leerlingen wachten aan het zebrapad. De agente steekt haar hand omhoog.
+
+#### Theorie over Boodschap
+De boodschap is niet altijd wat er letterlijk gezegd wordt, want soms zit er ook beteke-nis achter de woorden, de lichaamstaal, het stemgebruik ... Soms bedoelt de zender iets anders dan wat zijn letterlijke woorden weergeven. Bijvoorbeeld: Je ziet je hond Max doodgraag, maar je noemt hem altijd liefkozend ‘rotbeest’.
+
+#### Theorie over Ruis
+Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verkeerd aankomt bij de ontvanger. Dat heet ruis of storing.
+
 p.15 
 
 ### Opdracht 1: Noteer hoe vaak je hiermee communiceert. (afbeelding van smartphone, walkietalkie, brief, laptop) Kies uit: meerdere keren per dag, dagelijks, wekelijks, maandelijks, jaarlijks, nooit.
@@ -41,17 +51,7 @@ Kanaal: een e-mail
 Ontvanger: Myrthe
 Effect: Ze hebben de knuffel gezocht.
 
-#### Theorie over Communicatiemodel
-Communicatie is het overbrengen of uitwisselen van informatie. Spreken met elkaar, iets
-naar iemand schrijven, een bericht sturen, whatsappen, e-mailen, een gebaar maken, iemand
-begroeten, een pictogram plaatsen … zijn allemaal voorbeelden van communicatie.
-De zender (schrijver, tekenaar, spreker …) heeft altijd een doel (iets meedelen, iets vragen …)
-voor ogen. Om dat doel te bereiken, kiest hij een kanaal (e-mail, gesprek, sms, brief …). De
-boodschap verstuurt hij naar de ontvanger (lezer, kijker, luisteraar …). Als het effect overeenkomt
-met het doel, dan is de communicatie geslaagd.
-Met het communicatiemodel kun je elke vorm van communicatie onderzoeken of voorbereiden.
-Aan de schoolpoort regelt een agente het verkeer. Leerlingen wachten aan het zebrapad.
-De agente steekt haar hand omhoog.
+
 
 boodschap Alle weggebruikers moeten stoppen.
 Zender agente 
@@ -90,9 +90,6 @@ b Wat later informeert Jordy: ‘Meneer, wanneer kijken we eens een film?’ Men
 c Lisa tokkelt in de les op haar smartphone. Ze krijgt dit te horen: ‘Wat ben jij toch een harde werker!’ Leg die smartphone weg en begin te werken.
 d Tijdens het uitdelen van de toetsen zegt meneer Martens: ‘Jordy, jij hebt je boeken weer niet vastgehad, hé?’ Jordy heeft een slecht resultaat. 
 
-#### Theorie over Boodschap
-De boodschap is niet altijd wat er letterlijk gezegd wordt, want soms zit er ook beteke-nis achter de woorden, de lichaamstaal, het stemgebruik ... Soms bedoelt de zender iets anders dan wat zijn letterlijke woorden weergeven. Bijvoorbeeld: Je ziet je hond Max doodgraag, maar je noemt hem altijd liefkozend ‘rotbeest’.
-
 p. 18
 #### Theorie over Ruis
 Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verkeerd aankomt bij de ontvanger. Dat heet ruis of storing.
@@ -102,71 +99,4 @@ Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verke
 1) Tijdens de treinrit wil de  conducteur je vervoersbewijs controleren. Hij zegt: ‘Goeiemorgen, vervoers-bewijzen alstublieft.’ Maar jij reageert niet. = Er is ruis bij de ontvanger.
 2) Je zit in de auto en je moeder belt. Als de wagen een tunnel inrijdt, valt de verbinding weg. = Er is ruis bij het kanaal.
 3) Een Antwerpenaar ziet een mooie puppy in een Limburgse dierenwin-kel. Als hij binnenkomt, kijkt de uit-baatster hem vol verwachting aan. ‘Tis veur nen ongd!’ zegt de man.De vrouw antwoordt: ‘Kunt u dat nog eens herhalen?’ = Er is ruis bij de zender en/of de boodschap
-
-## Toetsen van les 2
-1 Lees de situaties en beantwoord de vragen. 	(…/8)
-
-SITUATIE 1
-Aisha staat te wachten op de trein naar Leuven wanneer deze boodschap door de intercom wordt afgeroepen: 
-
-‘Spoor 2. De trein naar Leuven, spoor 2, heeft momenteel een vertraging van 23 minuten. Wij houden u verder op de hoogte.’
-
-a Vul het communicatiemodel aan. +
-
-Zender:
-Doel:
-Boodschap:
-Kanaal:
-Ontvanger:
-Effect:
-
-SITUATIE 2
-
-	bpost       
-	
-	
-Beste mevrouw Maryn,	
-	           ………………………………….
-
-U was vanmorgen omstreeks  11  u 20  niet thuis.
-Ik heb het pakketje bij meneer Huyck met huisnummer 107 bezorgd.	
-	                                        .…………………………………………………………………………….	
-	
-Met vriendelijke groeten
-
-Uw postbode
-	
-		
-
- 
-a Vul het communicatiemodel aan.	(…/3)
-Zender:
-Doel:
-Boodschap:
-Kanaal:
-Ontvanger:
-Effect:
-b Wanneer is deze communicatie geslaagd? Verklaar je antwoord met elementen uit het communicatiemodel.	(…/2)
-
-_____________________________________________________________________________
-_____________________________________________________________________________
-
-2 Vorige week was je afwezig voor een toets van Nederlands. Je wilt graag weten wanneer je de toets mag inhalen.	(…/3)
-
-a Welk kanaal kies je? 	(…/1)
-
-_____________________________________________________________________________
-_____________________________________________________________________________
-_____________________________________________________________________________
-
-b Met welk doel stuur je de boodschap?	(…/1)
-
-_____________________________________________________________________________
-_____________________________________________________________________________
-c Welk kanaal kies je beter niet? Verklaar je antwoord.	(…/1) 
-
-_____________________________________________________________________________
-_____________________________________________________________________________
-_____________________________________________________________________________
-
 
