@@ -6,7 +6,9 @@ Dit moeten de leerlingen kunnen voor de toets
 Lesdoelen: 
 - Je leert de onderdelen van het communicatiemodel.
 - Je leert communicatieve situaties onderzoeken.
-
+- Je kunt het communicatiemodel invullen voor een communicatieve situatie.
+- Je kunt uitleggen waar er sprake is van ruis in een communicatieve situatie.
+- Je kunt uitleggen wanneer de communicatie geslaagd is.
 
 Dit is de theorie die ze moeten kunnen toepassen. Ze hoeven die niet letterlijk te kennen.
   Theorie:
