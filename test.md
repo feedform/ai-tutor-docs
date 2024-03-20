@@ -1,7 +1,172 @@
-In 1995 ontwikkelde Ward Cunningham het eerste computerprogramma waarmee het mogelijk was om informatie die bereikbaar was via het World Wide Web (internet) of een intranet, inhoudelijk door meerdere gebruikers te laten bewerken. Het was gebaseerd op een zogenaamd content management- of databasesysteem, dat documenten ordent en vindbaar maakt en het werd gebruikt voor opbouw van de Portland Pattern Repository. Hij noemde de technologie 'wiki wiki' omdat dat snel betekent in het Hawaïaans en omdat het een alliteratie vormt met het WWW (World Wide Web). Dit programma stond bekend als Ward's Wiki.
+# Nederlands Campus 1
 
-Cunningham haalde zijn inspiratie voor de wiki uit het HyperCard-programma van Apple, waarmee gebruikers virtuele card stacks konden maken van informatie. Dit concept was op zijn beurt geïnspireerd op een idee van Vannevar Bush, dat hij in 1945 beschreef in zijn artikel 'As we may think' dat verscheen in het blad Atlantic Monthly. Volgens Bush zou er een machine moeten zijn die koppelingen legde tussen artikelen en boeken in een microfilm, wat in uitgewerkte vorm overeenkomt met de hyperlinks op het World Wide Web en in Wikisoftware.[4] Wiki-ontwikkelaar Cunningham bouwde de HyperCard-stacks zelf op in de late jaren tachtig.[bron?] Hij was de eerste die het wiki-programma Ward's Wiki aan een server koppelde. In navolging daarvan zijn er vele andere wiki's geprogrammeerd om allerlei pagina's te beheren.
+## Les 2: Communicatie onderzoeken
 
-Cunningham installeerde op 25 maart 1995 het WikiWikiWeb op zijn bedrijfswebsite Cunningham & Cunningham.[5] Hij noemde het WikiWikiWeb[6] omdat hij dacht aan een baliemedewerker van Honolulu International Airport die hem verteld had over de Wiki Wiki Shuttle, een pendelbus die bezoekers snel tussen de terminals van de luchthaven transporteert. Cunninghams idee was de pagina's eenvoudig bewerkbaar te maken door de gebruikers zelf, zodat er snel resultaten kwamen, hij dacht er eerst over om het "QuickWeb" te noemen, maar doopte het "WikiWikiWeb".
+Lesdoelen: 
+- Je leert de onderdelen van het communicatiemodel.
+- Je leert communicatieve situaties onderzoeken.
 
-Glenn Van den Buijs is een goede vriend van Ward. 
+p.15 
+
+### Opdracht 1: Noteer hoe vaak je hiermee communiceert. (afbeelding van smartphone, walkietalkie, brief, laptop) Kies uit: meerdere keren per dag, dagelijks, wekelijks, maandelijks, jaarlijks, nooit.
+
+### Opdracht 2: Lees de e-mail. Vul het communicatiemodel aan voor de eerst verstuurde e-mail.
+E-mail: 
+  di 20/06 20:03
+  Myrthe Jacobs <myrthe.jacobs@telenet.be>
+  Annelien Wagemans X
+  RE: Knuffel vergeten
+  Hey Annelien
+  Ja, we hebben de knuffel gevonden.
+  Ik zal hem morgen meenemen naar school.
+  Tot dan!
+  Myrthe
+  Van: Annelien Wagemans [mailto: annelien.wagemans@gmail.com]
+  Verzonden: maandag 19 juni 17:21
+  Aan: Myrthe Jacobs <myrthe.jacobs@telenet.be>
+  Onderwerp: Knuffel vergeten
+  Dag Myrthe
+  Mijn broertje is daarstraks komen spelen op het verjaardagsfeestje van jouw zusje.
+  Hebben jullie misschien een knuffel gevonden? Het is een wit schaapje.
+  We denken dat hij die bij jullie vergeten is.
+  Groetjes
+  Annelien
+
+p. 16
+Communicatiemodel: 
+Zender: Annelien
+Doel: Ze wil een verloren knuffel terugvinden.
+Boodschap: Hebben jullie een knuffel gevonden?
+Kanaal: een e-mail
+Ontvanger: Myrthe
+Effect: Ze hebben de knuffel gezocht.
+
+#### Theorie over Communicatiemodel
+Communicatie is het overbrengen of uitwisselen van informatie. Spreken met elkaar, iets
+naar iemand schrijven, een bericht sturen, whatsappen, e-mailen, een gebaar maken, iemand
+begroeten, een pictogram plaatsen … zijn allemaal voorbeelden van communicatie.
+De zender (schrijver, tekenaar, spreker …) heeft altijd een doel (iets meedelen, iets vragen …)
+voor ogen. Om dat doel te bereiken, kiest hij een kanaal (e-mail, gesprek, sms, brief …). De
+boodschap verstuurt hij naar de ontvanger (lezer, kijker, luisteraar …). Als het effect overeenkomt
+met het doel, dan is de communicatie geslaagd.
+Met het communicatiemodel kun je elke vorm van communicatie onderzoeken of voorbereiden.
+Aan de schoolpoort regelt een agente het verkeer. Leerlingen wachten aan het zebrapad.
+De agente steekt haar hand omhoog.
+
+boodschap Alle weggebruikers moeten stoppen.
+Zender agente 
+ontvanger weggebruikers
+doel Leerlingen veilig laten oversteken.
+kanaal lichaamstaal 
+effect De weggebruikers stoppen.
+
+### Opdracht 3: Lees de situatie.
+Tijdens het ontbijt heeft Jonas zin in choco. Maar de pot staat niet op tafel. Hij vraagt: ‘Is er nog choco, mama?’ Zijn mama staat recht om de pot te halen.
+
+a Vul het communicatiemodel aan.
+Zender: Jonas
+Boodschap: Is er nog choco?
+Doel: Hij wil choco op tafel krijgen.
+Kanaal: Een gesprek, de stem van Jonas
+Ontvanger: mama
+Effect: Mama zet de pot op tafel. 
+
+p. 17
+
+b Jonas vraagt: 'Is er nog choco, mama?'
+– Wat is een ‘normaal’ kort antwoord op een dergelijke vraag? nee
+– Is de communicatie geslaagd als mama dat antwoordt? 
+– Waarom stelt Jonas die vraag als hij niet echt dat antwoord wil? 
+Die vraag is als het ware een verzoek, een licht bevel.
+– Geef nog enkele voorbeelden van dergelijke ‘verzoeken’.
+– Wat zou Jonas nog kunnen zeggen om de chocopot op tafel te krijgen?
+
+c Is de communicatie geslaagd?Ja, want het effect komt overeen met het doel.
+
+### 4 Meneer Martens, de leraar wiskunde, is niet altijd even vrolijk. Wat bedoelt hij in deze situaties?
+a Jordy wiebelt op twee poten van zijn stoel. Meneer Martens vraagt: ‘Jordy, hoeveel poten heeft een stoel?’
+Jordy moet op vier stoelpoten zitten.
+b Wat later informeert Jordy: ‘Meneer, wanneer kijken we eens een film?’ Meneer Martens antwoordt: ‘Als Pasen en Pinksteren op één dag vallen.’ We zullen nooit een film kijken.
+c Lisa tokkelt in de les op haar smartphone. Ze krijgt dit te horen: ‘Wat ben jij toch een harde werker!’ Leg die smartphone weg en begin te werken.
+d Tijdens het uitdelen van de toetsen zegt meneer Martens: ‘Jordy, jij hebt je boeken weer niet vastgehad, hé?’ Jordy heeft een slecht resultaat. 
+
+#### Theorie over Boodschap
+De boodschap is niet altijd wat er letterlijk gezegd wordt, want soms zit er ook beteke-nis achter de woorden, de lichaamstaal, het stemgebruik ... Soms bedoelt de zender iets anders dan wat zijn letterlijke woorden weergeven. Bijvoorbeeld: Je ziet je hond Max doodgraag, maar je noemt hem altijd liefkozend ‘rotbeest’.
+
+p. 18
+#### Theorie over Ruis
+Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verkeerd aankomt bij de ontvanger. Dat heet ruis of storing.
+
+### Opdracht 6: Lees de situaties en kruis aan waar er sprake is van ruis.
+
+1) Tijdens de treinrit wil de  conducteur je vervoersbewijs controleren. Hij zegt: ‘Goeiemorgen, vervoers-bewijzen alstublieft.’ Maar jij reageert niet. = Er is ruis bij de ontvanger.
+2) Je zit in de auto en je moeder belt. Als de wagen een tunnel inrijdt, valt de verbinding weg. = Er is ruis bij het kanaal.
+3) Een Antwerpenaar ziet een mooie puppy in een Limburgse dierenwin-kel. Als hij binnenkomt, kijkt de uit-baatster hem vol verwachting aan. ‘Tis veur nen ongd!’ zegt de man.De vrouw antwoordt: ‘Kunt u dat nog eens herhalen?’ = Er is ruis bij de zender en/of de boodschap
+
+## Toetsen van les 2
+1 Lees de situaties en beantwoord de vragen. 	(…/8)
+
+SITUATIE 1
+Aisha staat te wachten op de trein naar Leuven wanneer deze boodschap door de intercom wordt afgeroepen: 
+
+‘Spoor 2. De trein naar Leuven, spoor 2, heeft momenteel een vertraging van 23 minuten. Wij houden u verder op de hoogte.’
+
+a Vul het communicatiemodel aan. +
+
+Zender:
+Doel:
+Boodschap:
+Kanaal:
+Ontvanger:
+Effect:
+
+SITUATIE 2
+
+	bpost       
+	
+	
+Beste mevrouw Maryn,	
+	           ………………………………….
+
+U was vanmorgen omstreeks  11  u 20  niet thuis.
+Ik heb het pakketje bij meneer Huyck met huisnummer 107 bezorgd.	
+	                                        .…………………………………………………………………………….	
+	
+Met vriendelijke groeten
+
+Uw postbode
+	
+		
+
+ 
+a Vul het communicatiemodel aan.	(…/3)
+Zender:
+Doel:
+Boodschap:
+Kanaal:
+Ontvanger:
+Effect:
+b Wanneer is deze communicatie geslaagd? Verklaar je antwoord met elementen uit het communicatiemodel.	(…/2)
+
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+2 Vorige week was je afwezig voor een toets van Nederlands. Je wilt graag weten wanneer je de toets mag inhalen.	(…/3)
+
+a Welk kanaal kies je? 	(…/1)
+
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+b Met welk doel stuur je de boodschap?	(…/1)
+
+_____________________________________________________________________________
+_____________________________________________________________________________
+c Welk kanaal kies je beter niet? Verklaar je antwoord.	(…/1) 
+
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+
