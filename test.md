@@ -2,10 +2,13 @@
 
 ## Les 2: Communicatie onderzoeken
 
+Dit moeten de leerlingen kunnen voor de toets
 Lesdoelen: 
 - Je leert de onderdelen van het communicatiemodel.
 - Je leert communicatieve situaties onderzoeken.
 
+
+Dit is de theorie die ze moeten kunnen toepassen. Ze hoeven die niet letterlijk te kennen.
   Theorie:
   #### Theorie over Communicatiemodel
 Communicatie is het overbrengen of uitwisselen van informatie. Spreken met elkaar, iets naar iemand schrijven, een bericht sturen, whatsappen, e-mailen, een gebaar maken, iemand begroeten, een pictogram plaatsen … zijn allemaal voorbeelden van communicatie. De zender (schrijver, tekenaar, spreker …) heeft altijd een doel (iets meedelen, iets vragen …) voor ogen. Om dat doel te bereiken, kiest hij een kanaal (e-mail, gesprek, sms, brief …). De boodschap verstuurt hij naar de ontvanger (lezer, kijker, luisteraar …). Als het effect overeenkomt met het doel, dan is de communicatie geslaagd. Met het communicatiemodel kun je elke vorm van communicatie onderzoeken of voorbereiden. Aan de schoolpoort regelt een agente het verkeer. Leerlingen wachten aan het zebrapad. De agente steekt haar hand omhoog.
@@ -16,6 +19,7 @@ De boodschap is niet altijd wat er letterlijk gezegd wordt, want soms zit er ook
 #### Theorie over Ruis
 Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verkeerd aankomt bij de ontvanger. Dat heet ruis of storing.
 
+Hier beginnen de oefeningen uit het werkboek.
 p.15 
 
 ### Opdracht 1: Noteer hoe vaak je hiermee communiceert. (afbeelding van smartphone, walkietalkie, brief, laptop) Kies uit: meerdere keren per dag, dagelijks, wekelijks, maandelijks, jaarlijks, nooit.
@@ -100,6 +104,7 @@ Soms loopt er iets fout met de communicatie, waardoor de boodschap niet of verke
 2) Je zit in de auto en je moeder belt. Als de wagen een tunnel inrijdt, valt de verbinding weg. = Er is ruis bij het kanaal.
 3) Een Antwerpenaar ziet een mooie puppy in een Limburgse dierenwin-kel. Als hij binnenkomt, kijkt de uit-baatster hem vol verwachting aan. ‘Tis veur nen ongd!’ zegt de man.De vrouw antwoordt: ‘Kunt u dat nog eens herhalen?’ = Er is ruis bij de zender en/of de boodschap
 
+Dit zijn voorbeeldvragen die op de toets zouden kunnen komen. 
 ## Enkele oefenvragen voor de toets
 
 Situatie 1:
@@ -121,55 +126,3 @@ Je hebt een afspraak gemaakt om samen met een groep vrienden naar de bioscoop te
 Geef een voorbeeld van een situatie waarbij non-verbale communicatie een belangrijke rol speelt. Leg uit waarom non-verbale signalen in deze situatie cruciaal zijn voor het begrijpen van de boodschap.
 
 Je ontvangt een sms van een vriend die zegt: "Ik ben onderweg." Wat kan de werkelijke betekenis van deze boodschap zijn, afgezien van het letterlijke bericht? Geef een mogelijke interpretatie en leg uit waarom dit past bij de context van de situatie.
-
-
-## Les 4: Met gevarieerde onderwerpen betere teksten schrijven 
-Je leert ... je oefent ...
-– het onderwerp in een zin vinden.
-– dat een onderwerp een woord, een woordgroep of een zin kan zijn.
-– betere teksten schrijven door het onderwerp te verplaatsen of aan te passen.
-
-1 Lees de beweringen
-a Is de tekst duidelijk?b Is de tekst correct?c Is de tekst aantrekkelijk?d Wat valt op als je naar de zinsbouw kijkt bij de uitleg van elke bewering? Het onderwerp is hetzelfde en staat telkens vooraan in de zin.e Welk effect heeft dit? Het geheel klinkt eentonig en de tekst lijkt onafgewerkt.f Wat zou je veranderen aan de tekst?
-
-2 Lees de tekst. Over wie of waarover wordt in de zinnen iets gezegd? Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
-Tekst:
-Geheimschrift (titel)
-1Met misleidende letters ontwerp je snel een geheimschrift. 2Die code kunnen anderen dan moeilijk ontcijferen
-
-3 Zo werkt het. Je plaatst na elke letter een andere nietszeggende letter.Kom je? →Kdoamd jxem?4Een ander gemakkelijk geheimschrift is snel gevonden. 5Groepjes van elk vier letters vormen de basis. 6Op het einde vullen misleidende letters de zin aan.Kom je morgen mee? →Komj emor genm eeab?
-
-7 Wie het moeilijker wil maken, zet deze woordgroepen ook in omgekeerde volgorde.Kom je morgen mee? →Komj emor genm eeab? →Baee mneg rome jmok?Mensen die geen puzzeltalent hebben, worden moedeloos van zo’n geheime boodschap. 8Wie graag puzzelt, kraakt wel eens een code. 9Het fijne gevoel als je de code kraakt, zorgt voor een kick bij de codebrekers.
-
-Oplossingen:
-1) je W
-2) anderen W
-3) het W
-4) Een ander gemakkelijk geheimschrift WG
-5) Groepjes van elk vier letters WG
-6) misleidende letters WG
-7) Wie het moeilijker wil maken Z
-8) Wie graag puzzelt Z
-9) Het fijne gevoel als je de code kraakt Z
-
-Theorie over Onderwerp:
-Een zin bestaat uit twee hoofddelen: het onderwerp en de zinsdelen die iets over dit onder-werp zeggen.Het zinsdeel waarover in een zin iets gezegd wordt, noem je het onderwerp (O).Kobe houdt erg van katten. Over wie wordt iets gezegd? → Kobe = O Een kat is een tam dier.  Waarover wordt iets gezegd? → een kat = O Een onderwerpkan bestaan uit een woord, een woordgroep of een zin.Zij is bang van spinnen. (O = één woord). Het dochtertje van de buren is bang van spinnen.  (O = een woordgroep) Het meisje dat altijd zingt, is bang van spinnen.  (O = een zin)
-
-
-oefening 3
-Lees de tekst. Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
-
-Tekst:
-1 Heb jij ooit al eens een zinkgat gezien? 2 Zinkgaten zijn grote gaten in de grond die plotsklaps ontstaan. 3 De kraters kunnen klein, maar ook heel groot, diep en breed zijn. Ze kunnen overal ontstaan: onder een huis, op de snelweg, onder een winkel ... 4 In een paar seconden zakt een stuk grond helemaal weg. 5 Alles wat erop staat, valt in een diep gat. 6 Soms kan niets of niemand nog worden gered. Overal ter wereld kunnen de kraters plotseling verschijnen. 7 Op plaatsen waar er veel zout in de bodem zit, is de kans op zinkgaten groter.8 Water kan de zoutlaag immers oplossen. 9 Langzaamaan ontstaat dan een groot gat onder de aard­korst. Het allergrootste zinkgat is 662 m diep.10Wie het wil bekijken, moet naar China trekken.
-
-Oplossingen
-1) jij W
-2) Zinkgaten W
-3) De kraters WG
-4) een stuk grond WG
-5) Alles wat eropstaat Z
-6) niets of niemand WG
-7) de kans op zinkgaten WG
-8) Water W
-9) een groot gat WG
-10) Wie het wil bekijken Z
