@@ -87,7 +87,7 @@ Die vraag is als het ware een verzoek, een licht bevel.
 
 c Is de communicatie geslaagd?Ja, want het effect komt overeen met het doel.
 
-### 4 Meneer Martens, de leraar wiskunde, is niet altijd even vrolijk. Wat bedoelt hij in deze situaties?
+### opdracht 4: Meneer Martens, de leraar wiskunde, is niet altijd even vrolijk. Wat bedoelt hij in deze situaties?
 a Jordy wiebelt op twee poten van zijn stoel. Meneer Martens vraagt: ‘Jordy, hoeveel poten heeft een stoel?’
 Jordy moet op vier stoelpoten zitten.
 b Wat later informeert Jordy: ‘Meneer, wanneer kijken we eens een film?’ Meneer Martens antwoordt: ‘Als Pasen en Pinksteren op één dag vallen.’ We zullen nooit een film kijken.
