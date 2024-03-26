@@ -1,5 +1,5 @@
 ## Algemeen
-Deel: 2
+Deel: 1
 Les: 2
 Lestitel: Communicatie onderzoeken
 
