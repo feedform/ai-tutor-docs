@@ -238,6 +238,113 @@ Opdracht 6: Lees de situaties en kruis aan waar er sprake is van ruis.
 2) Je zit in de auto en je moeder belt. Als de wagen een tunnel inrijdt, valt de verbinding weg. = Er is ruis bij het kanaal.
 3) Een Antwerpenaar ziet een mooie puppy in een Limburgse dierenwin-kel. Als hij binnenkomt, kijkt de uit-baatster hem vol verwachting aan. ‘Tis veur nen ongd!’ zegt de man.De vrouw antwoordt: ‘Kunt u dat nog eens herhalen?’ = Er is ruis bij de zender en/of de boodschap
 
+p. 18
+
+Dit is een plusopdracht. Het is mogelijk dat de leerkracht deze opdracht niet behandeld heeft.
+
+Opdracht 5+: In Chef in je oor bereiden twee keukenklunzen een gerecht met de hulp van een topchef. Bekijk het fragment.
+
+a Wat is het effect van deze instructies*?
+– Chef: ‘Doe maar open. Daar zal je een klein  aardappelmesje zien.’
+– Chef: ‘Nu een savooikool.’
+
+b In dit fragment loopt het mis. Waar plaats je deze fout in de communicatie? Verklaar.
+
+De fout ligt bij ...
+◯de zender.
+◯de boodschap.
+◯de ontvanger.
+◯het kanaal.
+
+c Hoe lost de chef dit probleem op?
+
+Dit is de transcriptie van het fragment Chef in je oor van opdracht 5+:
+-             Langs de linkerkant heb je een schuif.
+•             Hier?
+-             Doe maar open. Ja, daar zal je een klein aardappelmesje zien.
+•             Dit?
+-             Perfect. Oké, nu die aardappeltjes schillen. Zo snel mogelijk.
+•             Oké. Snel. De tijd. Allee, ik snij dat zo dik.
+-             Dat komt omdat je een beetje zenuwachtig bent, denk ik.
+•             Ik ben jouw handen.
+-             Nu een savooikool.
+•             Een wat?
+-             Een savooikool.
+•             Tegen mij moet de chef babbelen als een baby. Ik ben echt een baby in de keuken.
+-             Een savooikool. Dat is de groene kool.
+•             Een groene kool. Iets dat groen is, dus …
+-             De grootste, de mooiste kool.
+•             Dit?
+-             Ja, dat is een savooi. Ja.
+•             Helemaal meenemen?
+-             Ja, helemaal meenemen.
+•             Oké.
+
+p. 19
+
+Opdracht 7: Onderzoek de communicatieve situatie.
+
+De leerlingen krijgen een affiche te zien die in een trein van de NMBS hangt. Op de affiche staat: Bedankt Raphaël. En iedereen die zijn bagage in het gangpad zet.
+ 
+De leerlingen vullen het communicatiemodel aan:
+Zender: spoorwegmaatschappij NMBS
+Doel: Reizigers instructies geven i.v.m. hun bagage
+Boodschap: Berg je bagage op. Zet ze niet in het gangpad.
+Kanaal: een affiche
+Ontvanger: de treinreizigers
+Effect: onbekend
+
+Opdracht 8+: Onderzoek de communicatieve situatie.
+
+De leerlingen krijgen een cartoon te zien, bestaande uit vier plaatjes.
+
+Op plaatje 1 staat: de papa die werkt aan een chauffage en een Engelse sleutel vastheeft. Hij zegt: Deze sleutel past niet, Marie!
+Op plaatje 2 staat: Marie die in de zetel ligt. Ja, papa? roept ze. Papa antwoordt: Breng die Engelse sleutel eens!
+Op plaatje 3 staat Marie die voor een gereedschapskist staat en zegt: Euh ... Die van de voordeur of de achterdeur?
+Op plaatje 4 zie je papa verward kijken.
+
+De leerlingen vullen het communicatiemodel aan. De zender is al ingevuld (papa) en de ontvanger ook (Marie)
+
+Doel: Hij wil een Engelse sleutel
+Boodschap: Breng die Engelse sleutel eens!
+Kanaal: een gesprek
+Effect: Marie weet niet wat ze moet doen.
+
+Waarom is er ruis in de communicatie?
+Antwoord: Marie begrijpt de term Engelse sleutel niet
+
+p. 20
+
+Opdracht 9: Onderzoek de communicatieve situatie.
+
+De leerlingen zien een scherm van een smartphone met daarop een iMessage bericht.
+Bovenaan staat de naam Sofia met twee hartjes.
+In het gesprek zien we:
+
+Tot morgen, Karen Xx.
+Salut x <3
+Heb je snap gezien. Gij zijt ook echt stom! ;-)
+
+De leerlingen vullen het communicatiemodel aan. De zender is al ingevuld (Karen) en de ontvanger ook (Sofia).
+
+Doel: 1 laten weten dat ze de snap gezien heeft 2 een grapje maken
+Boodschap: Heb je snap gezien. Gij zijt ook echt stom! ;-)
+Kanaal: iMessage, sms
+Effect: Sofia heeft het gelezen, maar nog niet geantwoord.
+
+9a Waaraan kun je zien dat Karen en Sofia vriendinnen zijn? 
+Antwoord: Sofia staat in Karens contacten met twee hartjes achter de naam.  De berichten eindigen met kusjes.
+
+9b Sofia heeft nog niet geantwoord. Kruis aan wat dat volgens jou betekent.
+◯ Ze heeft even geen tijd om te antwoorden.
+◯ Ze vindt het niet nodig om te antwoorden.
+◯ Ze is boos, omdat Karen haar stom noemt.
+
+9c Waarvoor dient de emoji in het bericht? Verandert de emoji de letterlijke boodschap?
+Antwoord: Zo toont Karen dat ze het niet meent. Zonder emoji is de boodschap misschien  kwetsend.
+
+9d Is de communicatie geslaagd? wellicht wele Wat kan er fout lopen in de communicatie?
+Antwoord: Als de ontvanger dit letterlijk opneemt, is er een probleem
 
 ## Dit zijn oefenvragen ter voorbereiding van de toets:
 1) Lees de situatie en beantwoord de vragen. 
