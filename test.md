@@ -1,25 +1,25 @@
 Begin les 4
 
-Algemeen
+# Algemeen
 Deel: 1, Les: 4, Lestitel: Met gevarieerde onderwerpen betere teksten schrijven
 
-Pagina's
+# Pagina's
 Van pagina 24 t.e.m 30
 
-Deze voorkennis hebben ze al:
+# Deze voorkennis hebben ze al:
 - Uit de lagere school kennen de leerlingen normaal gezien al wat een onderwerp van de zin is. Ze weten ook wat werkwoorden zijn.
 - Het symbool voor het zinsdeel onderwerp is de hoofdletter O.
 
-Dit moeten de leerlingen kunnen:
+# Dit moeten de leerlingen kunnen:
 – het onderwerp in een zin vinden.
 – dat een onderwerp een woord, een woordgroep of een zin kan zijn.
 – betere teksten schrijven door het onderwerp te verplaatsen of aan te passen.
 
-Dit moeten de leerlingen niet kunnen:
+# Dit moeten de leerlingen niet kunnen:
 
 -
  
-De theorie
+# De theorie
 
 1. Onderwerp op pagina 26
 Een zin bestaat uit twee hoofddelen: het onderwerp en de zinsdelen die iets over dit onderwerp zeggen.
@@ -60,11 +60,11 @@ Bijvoorbeeld:
 - Een belangrijke wedstrijd spelen we volgende week op verplaatsing.
 - Op verplaatsing spelen we volgende week een belangrijke wedstrijd.
 
-Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de antwoorden die de leerlingen in het werkboek genoteerd hebben in de klas:
+# Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de antwoorden die de leerlingen in het werkboek genoteerd hebben in de klas:
 
-p. 24
+pagina 24
 
-Opdracht 1: Lees de beweringen.
+##Opdracht 1: Lees de beweringen.
 
 Oefeningen:
 a Is de tekst duidelijk?
@@ -77,9 +77,9 @@ Antwoord: Het geheel klinkt eentonig en de tekst lijkt onafgewerkt.
 f Wat zou je veranderen aan de tekst?
 Antwoord: persoonlijk antwoord van de leerling
 
-p. 25
+pagina 25
  
-Opdracht 2: Lees de tekst. Over wie of waarover wordt in de zinnen iets gezegd? Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
+## Opdracht 2: Lees de tekst. Over wie of waarover wordt in de zinnen iets gezegd? Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
 
 De tekst:
 Titel: Geheimschrift
@@ -105,9 +105,9 @@ Antwoorden:
 8 Wie graag puzzelt Z
 9 Het fijne gevoel als je de code kraakt Z
  
-p. 26
+pagina 26
 
-Opdracht 3: Lees de tekst. Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
+## Opdracht 3: Lees de tekst. Noteer het onderwerp en geef aan of het onderwerp uit een woord (W), een woordgroep (WG) of een zin (Z) bestaat.
 
 De tekst:
 Titel: Zinkgat
@@ -134,9 +134,9 @@ Antwoorden:
 9 een groot gat WG
 10 Wie het wil bekijken Z
 
-p. 27
+pagina 27
 
-Opdracht 4: Schrijf het onderwerp over. Duid aan of het enkelvoud (enk.) of meervoud (mv.) is. Noteer door welke van deze woorden je het onderwerp kunt vervangen*: ik, jij/je, het, zij/ze, hij, wij en jullie.
+## Opdracht 4: Schrijf het onderwerp over. Duid aan of het enkelvoud (enk.) of meervoud (mv.) is. Noteer door welke van deze woorden je het onderwerp kunt vervangen*: ik, jij/je, het, zij/ze, hij, wij en jullie.
 
 Tip bij deze opdracht: Opgelet: dit is een stapelopdracht. Voor deze oefening moet je voor elke zin drie zaken doen.
 
@@ -167,9 +167,9 @@ Antwoorden (Opbouw van de antwoorden: Onderwerp, enk./mv., Vervang onderwerp)
 8 jij, enk., je
 9 Wie, enk., hij
 
-p. 28
+pagina 28
  
-Opdracht 5: Vervang het onderwerp door een woord.
+## Opdracht 5: Vervang het onderwerp door een woord.
 a Een kameel gebruikt zijn bulten als vetopslagplaats.
 b De melk van een nijlpaard is roze.
 c De huid van haaien is erg ruw.
@@ -178,7 +178,7 @@ e Goudvissen worden wit in het donker.
 
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
 
-Opdracht 6: Vervang het onderwerp door een woordgroep van minstens drie woorden.
+## Opdracht 6: Vervang het onderwerp door een woordgroep van minstens drie woorden.
 
 a Hij leeft in de woestijn.
 b Ze zijn ook rozig van kleur.
@@ -187,7 +187,7 @@ d Een jachtluipaard bereikt in drie seconden een topsnelheid.
 e Hij wordt dan wit.
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
 
-Opdracht 7: Vervang het onderwerp door een zin.
+##Opdracht 7: Vervang het onderwerp door een zin.
 a Een kameel gebruikt zijn bulten als vetopslagplaats.
 b Nijlpaarden zijn rozig van kleur.
 c Haaienhuid is erg ruw.
@@ -195,7 +195,7 @@ d Jachtluipaarden kunnen hun poten daardoor heel ver strekken.
 e Een goudvis wordt wit.
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
  
-Opdracht 8: Wissel het onderwerp van plaats, zodat het niet steeds vooraan staat.
+## Opdracht 8: Wissel het onderwerp van plaats, zodat het niet steeds vooraan staat.
 
 a Een kameel gebruikt het vet in zijn bulten tijdens lange trektochten.
 Antwoord: Tijdens lange trektochten gebruikt een kameel het vet in zijn bulten.
@@ -208,11 +208,12 @@ Antwoord: Met één stap kunnen jachtluipaarden zes meter afleggen.
 e Een goudvis maakt geen pigment aan zonder zonlicht.
 Antwoord: Zonder zonlicht maakt een goudvis geen pigment aan.
 
-p. 29
+pagina 29
 
-Opdracht 9: Kies een dier uit de tekst van opdracht 1 en herschrijf de alinea tot een aantrekkelijk geheel
+## Opdracht 9: Kies een dier uit de tekst van opdracht 1 en herschrijf de alinea tot een aantrekkelijk geheel
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
-Opdracht 10: Gebruik deze zin om te antwoorden op de vragen. Je begint telkens met andere woorden.
+
+##Opdracht 10: Gebruik deze zin om te antwoorden op de vragen. Je begint telkens met andere woorden.
 De zin: Ayoub speelt zaterdagavond volleybal in de sporthal met zijn vrienden.
 
 a Wanneer speelt Ayoub volleybal?
@@ -224,23 +225,21 @@ Antwoord: In de sporthal speelt ...
 d Met wie speelt Ayoub volleybal?
 Antwoord: Met zijn vrienden speelt ...
 
-Opdracht 11: In deze tekst staan alle onderwerpen vooraan in de zin. Maak de tekst aantrekkelijker door meer variatie in de zinsbouw te brengen. Noteer de nieuwe tekst.
-
-
+## Opdracht 11: In deze tekst staan alle onderwerpen vooraan in de zin. Maak de tekst aantrekkelijker door meer variatie in de zinsbouw te brengen. Noteer de nieuwe tekst.
 Tekst: Ik zal onze driedaagse niet snel vergeten. Al mijn vrienden waren mee. We speelden op de eerste avond een huiveringwekkend detectivespel. We zochten tips in het bos rond de kampplaats. We streden om het hardst om de titel. Een oude, akelige man dook plots op van achter een boom. Hij zwaaide al tierend met een honkbalknuppel. We waren vreselijk bang. We holden de benen van onder ons lijf om aan de kampplaats te geraken. Onze leiders lachten om het hardst. Zij hadden zelf voor de boeman gezorgd. En wij waren er weer eens flink ingetrapt ...
 
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
 
-p. 30
+pagina 30
 
-Dit is een plusopdracht. De leerkracht heeft deze oefening misschien overgeslagen.
+## Dit is een plusopdracht. De leerkracht heeft deze oefening misschien overgeslagen.
 Opdracht 12+: Maak dit tekstje aantrekkelijker. Wijzig de volgorde in enkele zinnen.  Verander ook het onderwerp enkele keren.
 
 Tekstje: Myriam stapt uit de trein. Myriam kijkt nerveus rond. Myriam zoekt ongeduldig naar haar tante. Myriam ziet haar tante nergens. Myriam ziet haar opeens op het andere perron. Myriam slaakt een zucht van opluchting.
 
 Bij deze opdracht gebruikte de leerkracht zijn/haar eigen antwoorden.
 
-Dit is een plusopdracht. De leerkracht heeft deze oefening misschien overgeslagen.
+## Dit is een plusopdracht. De leerkracht heeft deze oefening misschien overgeslagen.
 Opdracht 13+: Onderstreep het onderwerp in deze vragen.
 
 a Welke lijm moet ik hiervoor gebruiken?
@@ -268,7 +267,7 @@ h Waarom stoort de formulering van mijn vraag je zo?
 Antwoord: de formulering van mijn vraag
 
 
-Remediëringsopdracht op het zoeken van een onderwerp.
+# Remediëringsopdracht op het zoeken van een onderwerp.
 
 Opdracht: Over wie of waarover wordt in de zinnen iets gezegd? Noteer het onderwerp.
 a De eerste verlofdag van het schooljaar is alweer een feit.
@@ -288,7 +287,7 @@ Antwoord: de echte sportievelingen
 h Zij pakken zich goed in en trappen gewoon eens zo snel.
 Antwoord: zij
 
-Verdiepingsopdrachten of moeilijkere opdrachten:
+# Verdiepingsopdrachten of moeilijkere opdrachten:
 Opdracht: Noteer het onderwerp.
 a Wat heeft daar pootjes gekregen vannacht?
 Antwoord: wat
