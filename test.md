@@ -1,6 +1,4 @@
-Begin les 4
-
-# Algemeen
+# Les 4
 Deel: 1, Les: 4, Lestitel: Met gevarieerde onderwerpen betere teksten schrijven
 
 # Pagina's
@@ -16,11 +14,9 @@ Van pagina 24 t.e.m 30
 – betere teksten schrijven door het onderwerp te verplaatsen of aan te passen.
 
 # Dit moeten de leerlingen niet kunnen:
-
 -
  
 # De theorie
-
 1. Onderwerp op pagina 26
 Een zin bestaat uit twee hoofddelen: het onderwerp en de zinsdelen die iets over dit onderwerp zeggen.
 Het zinsdeel waarover in een zin iets gezegd wordt, noem je het onderwerp (O).
@@ -266,9 +262,8 @@ Antwoord: Wie
 h Waarom stoort de formulering van mijn vraag je zo?
 Antwoord: de formulering van mijn vraag
 
-
-# Remediëringsopdracht op het zoeken van een onderwerp.
-
+# Oefenvragen voor toets
+## Extra opdracht op het zoeken van een onderwerp.
 Opdracht: Over wie of waarover wordt in de zinnen iets gezegd? Noteer het onderwerp.
 a De eerste verlofdag van het schooljaar is alweer een feit.
 Antwoord: De eerste verlofdag van het schooljaar
@@ -287,7 +282,7 @@ Antwoord: de echte sportievelingen
 h Zij pakken zich goed in en trappen gewoon eens zo snel.
 Antwoord: zij
 
-# Verdiepingsopdrachten of moeilijkere opdrachten:
+## Iets moeilijkere opdracht
 Opdracht: Noteer het onderwerp.
 a Wat heeft daar pootjes gekregen vannacht?
 Antwoord: wat
@@ -309,5 +304,3 @@ i De volgende ochtend smelt dit ijs weer.
 Antwoord: dit ijs
 j Het raadsel is opgelost!
 Antwoord: Het raadsel
-
-Einde les 4
