@@ -365,3 +365,294 @@ Thomas ontvangt een e-mail van zijn docent waarin staat: "Beste studenten, vanwe
 ## Studeertips bij deze les:
 De leerlingen moeten communicatieve situaties onderzoeken door het communicatiemodel te gebruiken. Belangrijk is dat je nadenkt over een communicatieve situatie en dan nadenkt: wie is de zender, wat is zijn doel? Wat is de boodschap? Wie is de ontvanger? Wat is het kanaal? Wat is het effect? Wanneer is de communicatie geslaagd?
 Zorg ook dat je weet wat ruis is.
+
+# Les 3
+Deel: 1, Les: 3, Lestitel: De bedoeling van de zender achterhalen
+
+## Pagina's
+Van pagina 21 t.e.m. pagina 23
+
+## Deze voorkennis hebben ze al:
+- In les 2 zagen ze al het communicatiemodel en onderzochten ze al communicatieve situaties. Dat gebeurt in deze les ook, maar dan met een kijkfragment.
+
+## Dit moeten de leerlingen kunnen:
+- Je leert waarom zenders communiceren.
+- Je leert de bedoeling van de zender herkennen.
+- Je onderzoekt communicatieve situaties.
+- Je leert het verschil tussen hoofd- en nevendoel.
+
+## Dit moeten de leerlingen niet kunnen:
+- Alle verschillende bedoelingen van een zender kunnen opsommen.
+
+## De theorie
+
+1. Doel van de zender op pagina 22:
+Een zender heeft altijd een doel. Met zijn boodschap wil hij iets bereiken. De zender wil ...:
+– de ontvanger informeren. Hij geeft informatie, legt uit hoe iets zit. Bijvoorbeeld: Met een Facebookbericht laat Yassin weten dat hij verhuisd is.
+– de gedachten, de mening of de ideeën van de ontvanger beïnvloeden. Bijvoorbeeld: Met luide stem prijst de marktkramer zijn verse aardbeien aan.
+– zijn mening of standpunt geven aan de ontvanger. Bijvoorbeeld: Olivia vond het concert maar niks. Nour maakte haar duidelijk dat het concert door de lichtshow toch wel de moeite waard was.
+– instructies geven. Bijvoorbeeld: Oma legt uit hoe ik een cake moet bakken.
+– een verhaal vertellen. Bijvoorbeeld: Tijdens het kampvuur las Matteo een griezelverhaal voor.
+
+2. Hoofddoel en nevendoel op pagina 23:
+Terwijl hij zijn hoofddoel probeert te bereiken, werkt de zender meestal ook aan nevendoelen.
+Bijvoorbeeld: Met zijn reportage over de verdwijnende koraalriffen wil de cineast de kijkers vooral beïnvloeden in hun gedachten en aantonen dat de toestand zorgwekkend is. De makers tonen ook hoe koraal eruitziet, leggen uit wat koraal precies is en waar de riffen zich bevinden (informeren).
+Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de antwoorden die de leerlingen in het werkboek genoteerd hebben in de klas:
+
+## pagina 21
+
+### Opdracht 1: Bekijk de fragmenten.
+
+#### Fragment 1
+a Waarover gaat het fragment? (Wat heb je gezien?)
+Antwoord: Danny kreeg de prijs van beste kampkok.
+b Wie heeft dit fragment gemaakt? (Wie is de zender?) Antwoord: de nieuwsploeg van VTM
+c Wat is de bedoeling van de zender? Antwoord: de ontvangers informeren
+d Tot welk doelpubliek richt de zender zich? Antwoord: jongeren en volwassenen die een nieuwsuitzending volgen
+e Waarom zou iemand naar dit programma kijken?
+f In het fragment wordt Danny op drie verschillende plaatsen gefilmd. Som deze plekken op.
+Antwoord: in de keuken - in de eetzaal of de refter - op het speelterrein
+
+Dit is de transcriptie van fragment 1:
+-Eigenlijk hoeft hij vandaag eens niet te koken, maar omdat hij het niet kan laten, maakt kok Danny Maes toch het dessert en de drankjes voor vanavond. En als de beste kampkok van het land een cocktail maakt, dan moet dat wel iets speciaals zijn.
+•Dit is een cocktail van fruitsap, limoensap, suikerwater en een espuma van witte chocolade.De espuma is gemaakt met melk en witte chocolade.
+-Danny gaat al tien jaar mee als kok op kamp met Chiro Wiese en zijn kookkunsten worden gesmaakt. Daarom schreven de chiroleden hem in voor de verkiezing van beste kampkok van jeugdwerkorganisatie Mediaraven.
+•Op kamp eten ze liever dan thuis. Er zijn veel kinderen die naar mij komen en zeggen 'Oh dat is hier toch zo goed.'Gisteren was er iemand en die kwam zeggen 'Mijne papadie gaat kooklessen volgen, maar die kan niet zo goed koken als gij.'
+-Hij haalde het van veertig andere koks na stemrondes en een spannende finale met kookopdrachten en dat is meer dan terecht vinden ze hier.oLekker!oMogen wij dat gans opeten?
+•Je mag dat gans opeten van mij. Het mag allemaal voor u zijn.oIk vind dat hij heel lekker kan koken.
+-Wat maakt hij dan zoal dat jij zo lekker vindt?
+o Frietjes met balletjes
+o Lasagne bijvoorbeeld en frietjesenzo, ja eigenlijk alles wat hij maakt.
+-En hoe komt het dat het zo lekker is?
+oIk weet het niet, misschien heeft hij geheime recepten ofzo, ik weet het niet.
+-En natuurlijk zijn de kinderen ook blij met de prijs voor de beste kampkok: een barbecue voor heel het kamp.
+
+einde transcriptie
+
+#### Fragment 2
+a            Waarover gaat het fragment? (Wat heb je gezien?)
+Antwoord: monitoren in actie met woorden en zinnen
+b            Wie heeft dit fragment gemaakt? (Wie is de zender?)
+Antwoord: Wakasa, een vereniging die vakanties organiseert
+c             Wat is de bedoeling van de zender?
+Antwoord: jongeren aansporen om monitor te worden
+d            Tot welk doelpubliek richt de zender zich?
+Antwoord: jongeren
+e             Waarom zou iemand naar dit filmpje kijken?
+Antwoord: om geïnformeerd te worden
+f              Wat is de functie van humor in het filmpje?
+Antwoord: Door humor in het filmpje te verwerken probeert de zender de ontvanger sneller te overtuigen om monitor te worden. Monitor zijn is een fijne belevenis.
+
+Dit is de transcriptie van fragment 2:
+
+Hee, jij?!
+Durf jij je te smijten?
+Wacht! Nu even serieus …
+Ja jongens, draaiboek. Wij gaan er eens een beetje doorbladeren. We beginnen op pagina 27, daar zien we cowboys en indianen.
+Wakasa zoekt jou!
+Is veiligheid jouw ding?
+Is vriendschap belangrijk voor je?
+Is geen thema te wild voor je?
+Ben je creatief?
+En zoek je een leuke stageplaats?
+Smijt je!
+Word monitor bij Wakasa!
+www.wakasa.be
+Smijt jezelf en word monitor!
+De kokkin van kookkamp, Indiaan Hawdoe, Andree de Gorilla, Barry Konijn, de veiligheidsmummie, zwemvestman, Nele, Liene, Ruben, Filip, de stagiairs, Sam de baas
+
+einde transcriptie
+
+#### Fragment 3
+a            Waarover gaat het fragment? (Wat heb je gezien?)
+Antwoord: het boeken van een Kazouvakantie
+b            Wie heeft dit fragment gemaakt? (Wie is de zender?)
+Antwoord: Kazou
+c             Wat is de bedoeling van de zender?
+Antwoord: instructies geven
+d            Tot welk doelpubliek richt de zender zich?
+Antwoord: kinderen, jongeren en hun ouders die een Kazouvakantie willen boeken
+e             Waarom zou iemand naar dit filmpje kijken?
+Antwoord: om te weten hoe een vakantieboeking juist verloopt
+
+Dit is de transcriptie van fragment 3:
+
+In het volgende filmpje leggen we uit hoe je een Kazouvakantie kan boeken met een ‘Mijn Kazouprofiel’.
+Yes, het is weer zover! De Kazoukrant valt in de bus. Snel naar de brievenbus en plof daarna maar in de zetel. Neem de krant op je gemak goed door. Overleg met je ouders en maak je keuze. Overleg ook met je vrienden waar jullie samen naartoe willen. Eens je besloten hebt welke vakanties je wil, dan kan je van start gaan.
+Surf naar www.kazou.be.
+Maak eerst je ‘Mijn Kazouprofiel’ aan.
+Klik rechtsboven op ‘Mijn Kazou’.
+Vul alle gevraagde gegevens correct in.
+Controleer wanneer je gekozen vakantie boekbaar wordt. Dit kan via boekagenda, vakantieoverzicht of vakantiepagina.
+Omwille van grote drukte tijdens de boekingen werken we met een wachtrijsysteem.
+Tien minuten voor de boeking start, gaan we even offline. Met de boekingsstart krijgt iedereen die dan op onze website is willekeurig een nummer in de wachtrij. Kom je later dan de boekingsstart online dan krijg je een nummer achter in de wachtrij.
+Log in op je ‘Mijn Kazouprofiel’.
+Klik op ‘Boek nu’ ter bevestiging.
+Yes, het is gelukt!
+Na het boeken ontvang je een bevestigingsmail.
+
+einde transcriptie
+
+#### De makers van dit fragment willen vooral ...
+a een verhaal vertellen = antwoord: geen van de drie fragmenten
+b de kijkers beïnvloeden = antwoord: fragment 2
+c hun mening of standpunt geven aan de kijkers. = antwoord: geen van de drie fragmenten
+d de kijkers informatie geven. = antwoord: fragment 1
+e de kijkers uitleggen hoe je iets moet doen. = antwoord: fragment 3
+
+## pagina 22-23
+
+### Opdracht 2: Bekijk het programmaoverzicht. Noteer naast elk programma het belangrijkste doel van de programmamakers.
+
+a De dagschotel - Antwoord: De programmamakers willen vertellen hoe ze iets moeten bereiden.
+b De rechtbank - Antwoord: De programmamakers willen het reilen en zeilen van de rechtbank tonen.
+c Slotshow Iedereen Tegen Kanker - Antwoord: De programmamakers willen mensen motiveren om geld te doneren.
+d 4EVER - Antwoord: De programmamakers willen een verhaal vertellen.
+e Zelf een voetbaltafel maken - Antwoord: De programmamakers willen instructies geven om een voetbaltafel te maken.
+f STIP IT! - Antwoord: De programmamakers willen de kijkers beïnvloeden om niet te pesten.
+
+## pagina 23
+
+Opdracht 3: Beantwoord de vragen nadat je het beeldfragment bekeken hebt.
+
+a  Wat wordt er verteld in het beeldfragment?  
+b  Van wie is de informatie afkomstig?
+c  Wat is de belangrijkste bedoeling van de maker van dit fragment?Antwoord: Hij wil de kijker informeren over wat er kan gebeuren als je je onlineprofiel onvoldoende afschermt.
+d  Hoe wordt de boodschap in beeld gebracht?
+e  Welke doelen hadden de programmamakers nog voor ogen?
+
+Antwoord: een verhaal vertellen
+
+Dit is transcriptie van het beeldfragment van opdracht 3:
+
+-             Hey! Een paar weken geleden kwam Vincent in contact op de chat met een jongen die ook uit Congo komt.
+
+Chatberichten op het scherm:
+
+               Sacha001: Yow Vincent! Ik zie dat je ook uit Congo komt?
+
+               Vincent: Euh … ja, ma wie ben jij?
+
+               Sacha001: Ik ben Congolees, net als jij.
+
+               Vincent: Hoe oud ben je?
+
+               Sacha001: Ik ben 24. Jij 16 he?
+
+               Vincent: Ja, bijna 17  Hoe weet je dat?
+
+               Sacha001: Door je profiel. Ge hebt chille foto’s.
+
+-             Die jongen bleek ook bevriend te zijn met Mama Lema, de vrouw die voor Vincent zorgde in het weeshuis toen hij nog een baby was.
+
+               SMS - Sacha: Mama Lema werkte in het weeshuis waar ik ben opgegroeid.
+
+•             Huh, wa? Hij is blijkbaar in hetzelfde weeshuis opgegroeid als ik. Dat kan zijn dat ik die als baby nog gezien heb.
+
+               SMS- Vincent: OMG! Ongelooflijk!!!
+
+o            Ja, dat weet ik niet. Hij is een paar jaar ouder dan u, waarschijnlijk was hij al weg toen jij geboren werd. Maar dan nog, is het echt wel zot.
+
+•             Ik wil daar nu zeker wel mee afspreken hoor.
+
+-             Heb je hem al eens gezien in het echt?
+
+•             Nee, dat is het nu juist.
+
+o            Pas daar toch maar mee op en zeker niet alleen mee afspreken.
+
+               SMS – Vincent: Zin om eens af te spreken?
+
+-             Nee! Weet je nog hoe goed het was dat wij erbij waren toen Wout afsprak met zijn internetliefje?
+
+o            Ja, ik wil echt niet weten wat er gebeurd was als jullie er niet bij waren.
+
+-             Omdat we het toch niet helemaal vertrouwden, zijn we bij Vincent gebleven toen hij afsprak met Sacha.
+
+•             Hey Sacha! Euh … ja …
+
+o            Ik ben Wout.
+
+-             En ik ben …
+
+             Jij bent Amber!
+
+-             Ja … hoe weet je dat?
+
+             Van op de foto’s. Vincent heeft u ook al een paar keer getagd.
+
+•             Ja … euh … Amai, da’s wel zot dat jij hier nu ineens staat. Ja, want we hebben zoveel gemeen en het is ook zo’n toeval dat jij hier ook in België bent, dat jij Mama Lema ook kent en in hetzelfde weeshuis bent opgegroeid, dat is …
+
+             Ongelooflijk hé? Weet je hoe dat komt?
+
+•             Dat is toch gewoon keiveel toeval?
+
+             Dat is geen toeval, Vincent.
+
+•             Maar jawel toch, dat kan toch niet anders?
+
+             Nee, dat is helemaal geen toeval. Ik ben uw broer, Vincent.
+
+-             We waren echt allemaal onder de indruk en Sacha’s verhaal leek echt te kloppen.
+
+             Dat hadden we niet verwacht, om hier met de broer van Vincent in de living te zitten.
+
+             Ik heb altijd geweten dat ik een broer had. Tijdens de oorlogen zijn we met onze moeder gevlucht, Vincent was nog een baby. Mama heeft ons achtergelaten in het weeshuis.
+
+             Dan is het toch wel toevallig dat jullie elkaar teruggevonden hebben. Ongelooflijk!
+
+•             Dankzij het internet.
+
+o            Ja! Als ik Vincents verhaal las op het internet, hij was aan het vertellen over Congo, het weeshuis, mama Lema enzo, toen dacht ik dat dat wel mijn broer moest zijn. Anders had ik hem nooit gevonden.
+
+•             Ik had dat verhaal online gezet, omdat ik dat wilde delen met mijn vrienden, ik wilde dat even kwijt.
+
+-             Maar omdat Vincent zijn hele verhaal online had gezet, wist Sacha ook alles over hem en kon hij ons overtuigen. Maar als snel bleek dit niet te kloppen en bleek hij enkel uit te zijn op Vincents geld.
+
+             Zeg Vincent, sinds wanneer ben jij zo naïef geworden? Sinds jij met die Sacha omgaat, draait het alleen nog maar om geldzaken! Eerst voor die gsm, dan om dat kind te helpen, nu dit weer …
+
+             Ja, dat is waar.
+
+             En hoe ga je dit nu oplossen?
+
+•             Ik weet niet … Lela vond dat ik dat tegen jullie moest zeggen.
+
+             Ah Lela vond? Dus had Lela geen verantwoordelijkheidszin gehad, dan hadden we het nog altijd niet geweten?
+
+             Danny, rustig! Zo gaat dat niet euh …
+
+             Dat zijn wel serieuze zaken he! Dat is wel afpersing!
+
+             Ja, ik weet het!
+
+             Weet je nu ondertussen al waar die Sacha woont?
+
+•             Ja, ik heb het opgeschreven.
+
+             Dan gaan we er naartoe. Ik wil die Sacha recht in zijn ogen kijken en dat hij dan maar eens vertelt wat er met dat geld gebeurd is.
+
+-             Vincents papa vertrouwde het niet meer en samen met Vincent ging hij naar Brussel om Sacha eens goed aan de tand te voelen.
+
+             Ik had gewoon dringend geld nodig. Ik heb een ongeluk gehad met de auto van een vriend. Ik moet die nu terugbetalen en ik heb het geld niet. Dan heb ik contact gezocht met Vince op internet, omdat ik dacht dat die ook van Congo was.
+
+-             Dus wacht, jij bent mijn broer niet?
+
+             Vincent …
+
+             Nee …
+
+•             Ik snap niet dat jij zo van mensen kunt profiteren! Ik vertrouwde u, mijn familie vertrouwde u, mijn vrienden vertrouwden u! Echt waar, dat je mensen zoiets kunt aandoen! Van mij mag je echt wegrotten, ik wil u niet meer zien!
+
+             Vincent, wacht even!
+
+-             Vincent was er echt kapot van.
+
+•             Ik snap niet dat je zo kan liegen tegen mensen. Ik had ook zo graag een broer gehad, gewoon om te weten dat ik ergens nog familie heb, dat ik niet alleen ben. Was het maar waar.
+
+             Je bent toch niet alleen. Je hebt ons toch nog. Je hebt uw vrienden.
+
+-             Sacha had dus echt misbruik gemaakt van Vincents goedheid.
+
+             Vincent, ik wil er nu ook niet te lang over natrappen, maar ik hoop dat je uw lesje geleerd hebt. Ik vind dat je wel een beetje naïef bent geweest, met dat verhaal met die broer. Als er iemand op het internet zo ineens contact zoekt, allee, dan weet je toch dat dat niet helemaal juist zit.
+
+-             Pas dus op met te veel persoonlijke informatie op het internet te plaatsen. Niet iedereen heeft goede bedoelingen en ze kunnen dus deze informatie misbruiken.
